@@ -1,0 +1,9 @@
+DB_NAME = "postgres"
+DB_USER = "postgres"
+DB_PASSWORD = "stop_creating_passwords"
+DB_HOST = "localhost"
+DB_PORT = "5432"
+NUMBER_USERS = 10
+NUMBER_TASKS = 7
+NUMBER_STATUSES = 3
+STATUSES = [('new',), ('in progress',), ('completed',)]
